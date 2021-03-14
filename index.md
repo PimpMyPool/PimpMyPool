@@ -1,1 +1,1 @@
-## Welcome to PimpMyPOOL a Cardano stacking pool for ADA
+## Welcome to PimpMyPool a Cardano stacking pool for ADA
